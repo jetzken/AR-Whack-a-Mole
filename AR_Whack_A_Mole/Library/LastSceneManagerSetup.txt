@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Whack a Mole/Scenes/WamGame.unity
+  isLoaded: 1
+  isActive: 1
